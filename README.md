@@ -1,4 +1,4 @@
-# Risa-Yuzuki-s-Wiki-Files
+# Risa-Yuzuki-Wiki-Files
 Risa Yuzuki Wikiを作成する上で補助となるデータを置くレポジトリとして使われてます。
 
 ## Copyright & Credits Notice
